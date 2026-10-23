@@ -1,0 +1,14 @@
+{
+  "origin": "NEWLY_IMPLEMENTED_FROM_PLAN_DESCRIPTION_NOT_RECOVERED_UPSTREAM",
+  "owner_rights_confirmed": false,
+  "plan_artifact_paths": [],
+  "prototype_operation": "auxiliary_lift",
+  "public_release_approved": false,
+  "schema": "invariant.v7.new_candidate.v1",
+  "source_claim_gate": "FROZEN_LIMITED: fiziksel evrensellik kurulmadı. Matematiksel kontra örnek olarak tanımla; kuramı doğruladı deme.",
+  "source_sha256_verified_by_this_builder": false,
+  "synthetic_fixture_only": true,
+  "target_code": "G36",
+  "test_coverage": "local_synthetic_unit_tests_only",
+  "title": "gop-auxiliary-lifts"
+}
